@@ -4,7 +4,7 @@ I am trying to be able to document my process effectively.
 
 A simple hello world application
 
-My goal is to build a foundation for future projects
+My goal is to build a foundation for my future projects
 
 # Development Environment
 
